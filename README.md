@@ -7,9 +7,9 @@ To predict whether a person is confused or not, the best model scored 78.6%.
 
 <p><img src="https://github.com/carodak/DetectingConfusion/blob/main/DetectingConfusion/pictures/2conf.png" width=35% height=35%></p>
 
-To predict the level of confusion (not confused, slightly, moderately and very confused), the best model scored 56.9%.
+To predict the level of confusion (slightly, moderately and very confused), the best model scored 68.0%.
 
-<p><img src="https://github.com/carodak/DetectingConfusion/blob/main/DetectingConfusion/pictures/4conf.png" width=35% height=35%></p>
+<p><img src="https://github.com/carodak/DetectingConfusion/blob/main/DetectingConfusion/pictures/3conf.png" width=35% height=35%></p>
 
 ### Note
 Here I have practiced programming following the MVC model, using classes, encapsulation, exceptions and cutting my code into several small methods. So the code can look quite lengthy.

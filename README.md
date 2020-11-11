@@ -1,4 +1,5 @@
 # Detecting confusion state from EEG signals
+## Overview
  In this thesis project, I conducted an experiment and collected EEG brain data from 10 participants to detect the state of confusion. I first processed the EEG data with MATLAB and EEGLAB and then trained machine learning models. I provided the code used to train the learning models and some utility scripts to manipulate the data. The data is not available because it is confidential.
  Note: Here I have practiced programming following the MVC model, using classes, encapsulation, exceptions and cutting my code into several small methods. So the code can look quite lengthy.
  

@@ -4,7 +4,7 @@
  
 Achievement:
 To predict whether a person is confused or not, the best model scored 78.6%. 
-<img src="https://github.com/carodak/DetectingConfusion/blob/main/DetectingConfusion/pictures/2conf.png" width=30% height=30%>
+<p><img src="https://github.com/carodak/DetectingConfusion/blob/main/DetectingConfusion/pictures/2conf.png" width=40% height=40%></p>
 
 To predict the level of confusion (not confused, slightly, moderately and very confused), the best model scored 56.9%.
-<img src="https://github.com/carodak/DetectingConfusion/blob/main/DetectingConfusion/pictures/4conf.png" width=30% height=30%>
+<p><img src="https://github.com/carodak/DetectingConfusion/blob/main/DetectingConfusion/pictures/4conf.png" width=40% height=40%></p>
